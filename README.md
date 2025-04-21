@@ -1,1 +1,2 @@
 # amazon-prime-videos-analysis-using-python
+This project involves exploratory data analysis (EDA) on Amazon Prime video titles using Python libraries like Pandas, Matplotlib, and Seaborn. It aims to uncover insights such as the distribution of movies and TV shows, the most active years, popular directors, and content by country. The dataset is cleaned, filtered, and visualized to understand trends in release year, rating, and type of content on the platform.
